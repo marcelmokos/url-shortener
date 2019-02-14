@@ -1,0 +1,23 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelmokos/url-shortener.git"
+  },
+  "keywords": [],
+  "author": "Marcel Mokoš <https://github.com/marcelmokos>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelmokos/url-shortener/issues"
+  },
+  "homepage": "https://github.com/marcelmokos/url-shortener#readme",
+  "devDependencies": {
+    "netlify-shortener": "^1.0.3"
+  }
+}
