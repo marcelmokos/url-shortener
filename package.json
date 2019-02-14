@@ -2,6 +2,7 @@
   "name": "url-shortener",
   "version": "1.0.0",
   "description": "",
+  "baseUrl": "https://mrcl.netlify.com",
   "main": "index.js",
   "scripts": {
     "shorten": "netlify-shortener"
